@@ -52,3 +52,5 @@ which therefore must be delivered as soon as possible.
 Therefore in conclusion, our mission is to build an AI that will always take the shortest route to the top
 priority location, whatever the location it starts from, and having the option to go by an intermediary
 location which is in the top 3 priorities.
+
+To see the solution [here](https://github.com/hagijakobson/optimizing-warehouse-flows/blob/main/q-learning.py).
