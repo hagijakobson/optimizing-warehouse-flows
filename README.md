@@ -13,7 +13,7 @@ warehouse, the products are stored in 12 different locations, labeled by the fol
 As the orders are placed by the customers online, an Autonomous Warehouse Robot is moving around the
 warehouse to collect the products for future deliveries. Here is what it looks like:
 
-<center><img width="400" src="images/autonomous_warehouse_robot.png"></center>
+<center><img width="400" src="images/autonomous_wharehouse_robot.png"></center>
 
 The 12 locations are all connected to a computer system, which is ranking in real time the priorities of
 product collection for these 12 locations. For example, at a specific time t, it will return the following
